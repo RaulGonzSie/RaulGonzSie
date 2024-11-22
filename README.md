@@ -3,7 +3,7 @@
 I like physics, chemistry and biology
 
 ## Programming Languages
-- <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white"  height="20"/> &nbsp; height="20"/> &nbsp;<img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=flat&logo=latex&logoColor=white" height="20" />&nbsp
+- <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white"; height="20"/> &nbsp;<img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=flat&logo=latex&logoColor=white" height="20" />&nbsp
 
 ## Python Libraries
 - <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat&logo=Jupyter&logoColor=white" height="20" />&nbsp;
