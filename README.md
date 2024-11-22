@@ -18,7 +18,6 @@ I like physics, chemistry and biology
 
 ## Contacto
 www.linkedin.com/in/raúl-antonio-gonzález-sierra-662a3a302
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my chemical engineering undergrate
 - 🌱 I’m currently learning chemistry
