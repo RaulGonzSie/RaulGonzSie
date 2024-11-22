@@ -18,8 +18,6 @@ I like physics, chemistry and biology
 
 ## Contacto
 www.linkedin.com/in/raúl-antonio-gonzález-sierra-662a3a302
-**RaulGonz/RaulGonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my chemical engineering undergrate
